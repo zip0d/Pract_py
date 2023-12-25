@@ -1,0 +1,163 @@
+2023-12-25 15:25:53,975 - DEBUG - DELETE example
+2023-12-25 15:25:53,975 - DEBUG - http://localhost:3000/clients/4
+2023-12-25 15:25:53,975 - DEBUG - 200
+2023-12-25 15:25:53,975 - DEBUG - OK
+2023-12-25 15:25:53,975 - DEBUG - {}
+2023-12-25 15:25:53,975 - DEBUG - {}
+2023-12-25 15:25:53,975 - DEBUG - -----------
+2023-12-25 15:25:54,006 - DEBUG - DELETE example
+2023-12-25 15:25:54,006 - DEBUG - http://localhost:3000/companies/4
+2023-12-25 15:25:54,006 - DEBUG - 200
+2023-12-25 15:25:54,006 - DEBUG - OK
+2023-12-25 15:25:54,006 - DEBUG - {}
+2023-12-25 15:25:54,006 - DEBUG - {}
+2023-12-25 15:25:54,006 - DEBUG - -----------
+2023-12-25 15:25:54,037 - DEBUG - DELETE example
+2023-12-25 15:25:54,037 - DEBUG - http://localhost:3000/employees/4
+2023-12-25 15:25:54,037 - DEBUG - 200
+2023-12-25 15:25:54,037 - DEBUG - OK
+2023-12-25 15:25:54,037 - DEBUG - {}
+2023-12-25 15:25:54,037 - DEBUG - {}
+2023-12-25 15:25:54,037 - DEBUG - -----------
+2023-12-25 15:25:54,068 - DEBUG - DELETE example
+2023-12-25 15:25:54,068 - DEBUG - http://localhost:3000/products/4
+2023-12-25 15:25:54,068 - DEBUG - 200
+2023-12-25 15:25:54,068 - DEBUG - OK
+2023-12-25 15:25:54,069 - DEBUG - {}
+2023-12-25 15:25:54,069 - DEBUG - {}
+2023-12-25 15:25:54,069 - DEBUG - -----------
+2023-12-25 15:25:54,100 - DEBUG - DELETE example
+2023-12-25 15:25:54,100 - DEBUG - http://localhost:3000/projects/4
+2023-12-25 15:25:54,100 - DEBUG - 200
+2023-12-25 15:25:54,100 - DEBUG - OK
+2023-12-25 15:25:54,100 - DEBUG - {}
+2023-12-25 15:25:54,100 - DEBUG - {}
+2023-12-25 15:25:54,100 - DEBUG - -----------
+2023-12-25 15:25:54,131 - DEBUG - GET example
+2023-12-25 15:25:54,131 - DEBUG - http://localhost:3000/clients/1
+2023-12-25 15:25:54,131 - DEBUG - 200
+2023-12-25 15:25:54,131 - DEBUG - OK
+2023-12-25 15:25:54,131 - DEBUG - {
+  "id": 1,
+  "name": "Davis, Ellis and Richardson",
+  "contact_person": "Carolyn Berger",
+  "email": "plee@example.org"
+}
+2023-12-25 15:25:54,131 - DEBUG - {'id': 1, 'name': 'Davis, Ellis and Richardson', 'contact_person': 'Carolyn Berger', 'email': 'plee@example.org'}
+2023-12-25 15:25:54,131 - DEBUG - -----------
+2023-12-25 15:25:54,161 - DEBUG - GET example
+2023-12-25 15:25:54,161 - DEBUG - http://localhost:3000/companies/1
+2023-12-25 15:25:54,161 - DEBUG - 200
+2023-12-25 15:25:54,161 - DEBUG - OK
+2023-12-25 15:25:54,161 - DEBUG - {
+  "id": 1,
+  "CEO": "Christine Clark",
+  "company": "West-Jordan",
+  "address": "64109 Smith Rapids Apt. 038\nLake Davidhaven, NV 50407"
+}
+2023-12-25 15:25:54,161 - DEBUG - {'id': 1, 'CEO': 'Christine Clark', 'company': 'West-Jordan', 'address': '64109 Smith Rapids Apt. 038\nLake Davidhaven, NV 50407'}
+2023-12-25 15:25:54,161 - DEBUG - -----------
+2023-12-25 15:25:54,193 - DEBUG - GET example
+2023-12-25 15:25:54,193 - DEBUG - http://localhost:3000/employees/1
+2023-12-25 15:25:54,193 - DEBUG - 200
+2023-12-25 15:25:54,193 - DEBUG - OK
+2023-12-25 15:25:54,193 - DEBUG - {
+  "id": 1,
+  "name": "Mr. Michael Cox",
+  "phone_number": "001-650-630-5930"
+}
+2023-12-25 15:25:54,193 - DEBUG - {'id': 1, 'name': 'Mr. Michael Cox', 'phone_number': '001-650-630-5930'}
+2023-12-25 15:25:54,193 - DEBUG - -----------
+2023-12-25 15:25:54,224 - DEBUG - GET example
+2023-12-25 15:25:54,224 - DEBUG - http://localhost:3000/products/1
+2023-12-25 15:25:54,224 - DEBUG - 200
+2023-12-25 15:25:54,224 - DEBUG - OK
+2023-12-25 15:25:54,224 - DEBUG - {
+  "id": 1,
+  "name": "agent",
+  "price": 953,
+  "category": "use"
+}
+2023-12-25 15:25:54,224 - DEBUG - {'id': 1, 'name': 'agent', 'price': 953, 'category': 'use'}
+2023-12-25 15:25:54,224 - DEBUG - -----------
+2023-12-25 15:25:54,256 - DEBUG - GET example
+2023-12-25 15:25:54,256 - DEBUG - http://localhost:3000/projects/1
+2023-12-25 15:25:54,256 - DEBUG - 200
+2023-12-25 15:25:54,256 - DEBUG - OK
+2023-12-25 15:25:54,256 - DEBUG - {
+  "id": 1,
+  "name": "Front-line stable benchmark",
+  "description": "Lot sell fight close whose rule feeling. Foot ever camera up.\nBudget project hope purpose dream effect. Interesting democratic phone onto. And sport become base."
+}
+2023-12-25 15:25:54,257 - DEBUG - {'id': 1, 'name': 'Front-line stable benchmark', 'description': 'Lot sell fight close whose rule feeling. Foot ever camera up.\nBudget project hope purpose dream effect. Interesting democratic phone onto. And sport become base.'}
+2023-12-25 15:25:54,257 - DEBUG - -----------
+2023-12-25 15:25:54,287 - DEBUG - PUT example
+2023-12-25 15:25:54,287 - DEBUG - http://localhost:3000/clients/3
+2023-12-25 15:25:54,287 - DEBUG - 200
+2023-12-25 15:25:54,288 - DEBUG - OK
+2023-12-25 15:25:54,288 - DEBUG - {
+  "id": 3,
+  "name": "Harris-Mcdaniel",
+  "contact_person": "Ashley Kelley",
+  "email": "edwardlyons@example.com"
+}
+2023-12-25 15:25:54,288 - DEBUG - {'id': 3, 'name': 'Harris-Mcdaniel', 'contact_person': 'Ashley Kelley', 'email': 'edwardlyons@example.com'}
+2023-12-25 15:25:54,288 - DEBUG - -----------
+2023-12-25 15:25:54,318 - DEBUG - PUT example
+2023-12-25 15:25:54,318 - DEBUG - http://localhost:3000/companies/2
+2023-12-25 15:25:54,318 - DEBUG - 200
+2023-12-25 15:25:54,318 - DEBUG - OK
+2023-12-25 15:25:54,319 - DEBUG - {
+  "id": 2,
+  "CEO": "New name",
+  "company": "New Company",
+  "address": "New Address"
+}
+2023-12-25 15:25:54,319 - DEBUG - {'id': 2, 'CEO': 'New name', 'company': 'New Company', 'address': 'New Address'}
+2023-12-25 15:25:54,319 - DEBUG - -----------
+2023-12-25 15:25:54,350 - DEBUG - PUT example
+2023-12-25 15:25:54,350 - DEBUG - http://localhost:3000/employees/1
+2023-12-25 15:25:54,350 - DEBUG - 200
+2023-12-25 15:25:54,351 - DEBUG - OK
+2023-12-25 15:25:54,351 - DEBUG - {
+  "id": 1,
+  "name": "John Doe Jr.",
+  "phone_number": "0123456789"
+}
+2023-12-25 15:25:54,351 - DEBUG - {'id': 1, 'name': 'John Doe Jr.', 'phone_number': '0123456789'}
+2023-12-25 15:25:54,351 - DEBUG - -----------
+2023-12-25 15:25:54,367 - DEBUG - PUT example
+2023-12-25 15:25:54,367 - DEBUG - http://localhost:3000/products/1
+2023-12-25 15:25:54,367 - DEBUG - 200
+2023-12-25 15:25:54,367 - DEBUG - OK
+2023-12-25 15:25:54,367 - DEBUG - {
+  "id": 1,
+  "name": "product",
+  "price": "228",
+  "category": "category"
+}
+2023-12-25 15:25:54,367 - DEBUG - {'id': 1, 'name': 'product', 'price': '228', 'category': 'category'}
+2023-12-25 15:25:54,367 - DEBUG - -----------
+2023-12-25 15:25:54,397 - DEBUG - PUT example
+2023-12-25 15:25:54,397 - DEBUG - http://localhost:3000/projects/1
+2023-12-25 15:25:54,397 - DEBUG - 200
+2023-12-25 15:25:54,397 - DEBUG - OK
+2023-12-25 15:25:54,398 - DEBUG - {
+  "id": 1,
+  "name": "John Doe Jr.",
+  "description": "Example information personal it. Rule also low visit purp"
+}
+2023-12-25 15:25:54,398 - DEBUG - {'id': 1, 'name': 'John Doe Jr.', 'description': 'Example information personal it. Rule also low visit purp'}
+2023-12-25 15:25:54,398 - DEBUG - -----------
+2023-12-25 15:47:19,244 - DEBUG - GET example
+2023-12-25 15:47:19,244 - DEBUG - http://localhost:3000/companies/1
+2023-12-25 15:47:19,244 - DEBUG - 200
+2023-12-25 15:47:19,244 - DEBUG - OK
+2023-12-25 15:47:19,244 - DEBUG - {
+  "id": 1,
+  "CEO": "Stephen Maxwell",
+  "company": "Bowen, Davidson and Harris",
+  "address": "4586 Alvarado Drive\nPort Gregorystad, DC 20643"
+}
+2023-12-25 15:47:19,244 - DEBUG - {'id': 1, 'CEO': 'Stephen Maxwell', 'company': 'Bowen, Davidson and Harris', 'address': '4586 Alvarado Drive\nPort Gregorystad, DC 20643'}
+2023-12-25 15:47:19,244 - DEBUG - -----------

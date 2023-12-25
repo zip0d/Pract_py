@@ -1,0 +1,152 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "CEO": "Stephen Maxwell",
+      "company": "Bowen, Davidson and Harris",
+      "address": "4586 Alvarado Drive\nPort Gregorystad, DC 20643"
+    },
+    {
+      "id": 2,
+      "CEO": "Nicole Archer",
+      "company": "Rivera-Lin",
+      "address": "4870 Chavez Mount Suite 880\nSouth Ryanside, NC 60001"
+    },
+    {
+      "id": 3,
+      "CEO": "Benjamin Jackson",
+      "company": "Arnold Ltd",
+      "address": "010 Ray Pike Apt. 198\nFranciscotown, AS 21282"
+    },
+    {
+      "id": 4,
+      "CEO": "Melanie Boone",
+      "company": "Ford Group",
+      "address": "4043 Tammy Walk\nPort Stephen, DE 91254"
+    },
+    {
+      "id": 5,
+      "CEO": "Tamara Clark",
+      "company": "Henry, Hartman and Ball",
+      "address": "8561 Erickson Hills\nWest Cassandraburgh, OR 78917"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Tammy Navarro",
+      "phone_number": "612-537-6133x427"
+    },
+    {
+      "id": 2,
+      "name": "William Garcia",
+      "phone_number": "333.930.2524x37640"
+    },
+    {
+      "id": 3,
+      "name": "Mrs. Holly Garcia",
+      "phone_number": "(817)767-8320x8369"
+    },
+    {
+      "id": 4,
+      "name": "Aaron Ward",
+      "phone_number": "308-819-9548x3560"
+    },
+    {
+      "id": 5,
+      "name": "Wayne Davis",
+      "phone_number": "001-848-639-6477x11813"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "ready",
+      "price": 30,
+      "category": "catch"
+    },
+    {
+      "id": 2,
+      "name": "better",
+      "price": 280,
+      "category": "somebody"
+    },
+    {
+      "id": 3,
+      "name": "behind",
+      "price": 972,
+      "category": "put"
+    },
+    {
+      "id": 4,
+      "name": "fine",
+      "price": 285,
+      "category": "voice"
+    },
+    {
+      "id": 5,
+      "name": "fall",
+      "price": 852,
+      "category": "white"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Future-proofed didactic access",
+      "description": "Public white wife fact field pull material Democrat. American foot than fast. Treat commercial evening throw issue. Theory according force report never owner fund."
+    },
+    {
+      "id": 2,
+      "name": "Ameliorated transitional benchmark",
+      "description": "Item value continue share face watch thing north. Ball contain page perhaps follow training skill realize."
+    },
+    {
+      "id": 3,
+      "name": "Open-architected mission-critical matrix",
+      "description": "Painting others ask travel as mention source know.\nTask full summer better. Fish computer speak cold across win. Test art away customer benefit process."
+    },
+    {
+      "id": 4,
+      "name": "Intuitive scalable synergy",
+      "description": "Edge politics sort seek without. Same service course wide type. Stop through opportunity year and."
+    },
+    {
+      "id": 5,
+      "name": "Realigned explicit orchestration",
+      "description": "Democratic teacher adult base. Film possible society tough data successful agency happen. Figure right quite physical behavior."
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "name": "Pierce, Watts and Hunter",
+      "contact_person": "Sheila Vasquez",
+      "email": "bmccarthy@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Mendez Group",
+      "contact_person": "Victoria Gordon",
+      "email": "christopher77@example.net"
+    },
+    {
+      "id": 3,
+      "name": "Bishop PLC",
+      "contact_person": "Gary Richards",
+      "email": "john09@example.org"
+    },
+    {
+      "id": 4,
+      "name": "Smith-Black",
+      "contact_person": "Ryan Moore",
+      "email": "jpacheco@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Mccoy PLC",
+      "contact_person": "Danielle Simpson",
+      "email": "brownbriana@example.org"
+    }
+  ]
+}
